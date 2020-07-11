@@ -2,7 +2,7 @@ let resume = {
   Intro: [
     {
       Name: "Dastan Aibek",
-      Street: "Baarova",
+      Street: "U kunratickeho lesa",
       City: "Prague",
       Mail: "dastan.aibek8@gmail.com",
       'Postal Code': 14000,
