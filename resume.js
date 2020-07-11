@@ -5,6 +5,7 @@ let resume = {
       Street: "Baarova",
       City: "Prague",
       Mail: "dastan.aibek8@gmail.com",
+      'Postal Code': 14000,
       /* Phone: function(code = '+420', cell = '773192459') {
                         return code + cell;
                     }*/
